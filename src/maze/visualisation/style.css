@@ -1,0 +1,7 @@
+#headingLabel{
+	-fx-font: 60px Tahoma;
+    -fx-fill: linear-gradient(to top right, #ff7f50, #6a5acd);
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
